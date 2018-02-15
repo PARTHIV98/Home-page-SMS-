@@ -1,0 +1,138 @@
+body{
+	background-image:url("../images/mn.jpg");
+	height: 100%;
+	background-repeat: no-repeat;
+	
+
+	
+	
+	
+}
+
+.col-sm-5,.form-box{
+
+	/*background-color: #2E296A;*/
+	background:linear-gradient(90deg, #00d9bf,#00d977);
+	margin-top: 150px;
+	border-radius: 12px;
+	
+	
+	
+	
+}
+
+.form-box h3,p{
+	color: white;
+}
+.text{
+	color: white;
+	margin-top: 275px;
+}
+
+.checkbox{
+	height: 20px;
+}
+.checkbox label{
+	margin-top: 6px;
+	color: white;
+    margin-left: 20px;
+}
+
+}
+.rm{
+	margin-left: 20px;
+}
+.checkbox a{
+	float: right;
+	margin-top: 6px;
+}
+
+.box{
+	margin-top: 50px;
+}
+.box h3,p{
+	color:white;
+}
+.form-top{
+margin: 0;
+}
+.form-bottom{
+	margin-top: 25px;
+}
+.form-group input{
+	margin-top: 35px;
+	width: 90%;
+	
+
+}
+.btnbox{
+	margin-top: 25px;
+
+
+}
+#btn1{
+width: 90%;
+background-color:transparent;
+border: 1px solid black;
+border-radius: 6px;
+
+}
+#btn1:hover{
+	
+background-color:#FFFFFF;
+transition: all .3s ease-in-out;
+	
+}
+.social p{
+	color: white;
+	text-align: center;
+	
+}
+.icons ul{
+	text-align:center;
+	padding-left: 0;
+
+}
+.icons ul li{
+	display: inline-block;
+	list-style-type: none;
+	
+
+}
+.icons ul li a{
+	color: white;
+	padding: 5px 10px;
+	font-size: 18px;
+		display: block;
+	
+}
+.icons ul li a:hover{
+	transition:all .5s ease-in-out;
+	transform: scale(1.2);
+}
+.or{
+	background-color: white;
+	padding:6px 6px;
+	color: black;
+	width: 75px;
+	height: 75px;
+	border-radius: 25%;
+}
+
+
+.top-con .form-box {
+    padding-top: 50px;
+}
+.icons ul li a .fa-google-plus-g:hover{
+	color: #DC4A38;
+}
+
+.icons ul li a .fa-facebook-square:hover{
+	color: #4867AA;
+}
+.icons ul li a .fa-twitter:hover{
+	color: #1DA1F2;
+}
+.icons ul li a .fa-github:hover{
+	color: black;
+}
