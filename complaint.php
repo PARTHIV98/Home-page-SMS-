@@ -73,25 +73,7 @@
 		<center><h2>Complains</h2></center>
   
         
-       <!--  <div class="col-md-4">
-            <div class="panel panel-default">
-                    <div class="panel-body">
-                        <div class="col-md-12 row" style="padding:0px;margin-bottom:10px;">
-                            
-                            <div class="col-md-2">
-                                <img src="http://dinus.org/img/fakultas/FIK/cs/cs.svg">
-                                <div style="margin-left:30px;">
-                                    <img src="http://dinus.org/img/fakultas/FIK/cs/cs.png" width="70px" height="70px" class="img-circle" style="border:3px solid #052C52;">
-                                </div>
-                            </div>
-                            <div class="col-md-10">
-                                <hr>
-                                <p style="padding-left:55px;font-size:1.3em;"><strong>Zaskia Amanda</strong></p>
-                                
-                            </div>
-                            
-                            
-                        </div> -->
+       
 <div class="con2">
                         <form>
                            
