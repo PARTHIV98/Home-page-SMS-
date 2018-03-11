@@ -4,7 +4,7 @@
 <html>
 <head>
 	<title>Home | SMS</title>
-	<?php include 'h.php'?>
+	
 	 <meta charset="utf-8">
 	 <link href="https://fonts.googleapis.com/css?family=Bree+Serif|Exo+2|Lobster|Pacifico" rel="stylesheet"> 
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -15,44 +15,7 @@
   <link rel="stylesheet" type="text/css" href="styles/home.css">
 </head>
 <body>
-	<style>
-	  .dropdown-submenu {
-    position: relative;
-}
-
-.dropdown-submenu>.dropdown-menu {
-    top: 0;
-    left: 100%;
-    margin-top: -6px;
-    margin-left: -1px;
-    -webkit-border-radius: 0 6px 6px 6px;
-    -moz-border-radius: 0 6px 6px;
-    border-radius: 0 6px 6px 6px;
-}
-
-.dropdown-submenu:hover>.dropdown-menu {
-    display: block;
-}
-
-.dropdown-submenu>a:after {
-    display: block;
-    content: " ";
-    float: right;
-    width: 0;
-    height: 0;
-    border-color: transparent;
-    border-style: solid;
-    border-width: 5px 0 5px 5px;
-    border-left-color: #ccc;
-    margin-top: 5px;
-    margin-right: -10px;
-}
-
-.dropdown-submenu:hover>a:after {
-    border-left-color: #000;
-}
-	</style>
-  
+	<?php include 'h.php'?>
 
  	<div class="inbg">
  		<div class="container">
