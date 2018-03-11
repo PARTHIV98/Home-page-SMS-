@@ -40,7 +40,7 @@
 					    	<input type="tel" class="form-control" id="telephone" placeholder=" Enter 10-digit mobile no." maxlength="10" pattern="[0-9]*$" autofocus>
 			  			</div>
 			  	
-			  		<!-- <div class="col-md-6"> -->
+			  		
 			  			<div class="form-group">
 			  				<label for ="description"> Message</label>
 			  			 	<textarea  class="form-control" id="description" placeholder="Enter Your Message"></textarea>
